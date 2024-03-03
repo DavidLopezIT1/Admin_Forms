@@ -1,0 +1,27 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+fieldset{
+    width: 390px;
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    margin-right: 30px;
+}
+
+.button_send{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.button_send2{
+    
+    width: 90px;
+    height: 30px;
+}
+.alerta{
+    background-color: blue;
+}
